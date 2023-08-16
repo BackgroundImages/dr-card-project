@@ -1,4 +1,7 @@
 # dr-card-project
+This project was worked in Digital Ready with the following people:
+Pratima Acharya, Nikki Tsui, Austin Grant, Vivian Xu, and Nicoly Carvalho
+
 A Python card game of Blackjack
 
 Draw two random cards face up
